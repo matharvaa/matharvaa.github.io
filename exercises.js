@@ -2,7 +2,7 @@ const exercises = [
   {
     english: "I eat an applelllll",
     spanish: "Yo como una manzana",
-    list: [\(2x\sqrt{q}\), "comes", "Yo", "una", "como", "naranja"],
+    list: ["46465", "comes", "Yo", "una", "como", "naranja"],
   },
   {
     english: "This is my wife",
