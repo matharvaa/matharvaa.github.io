@@ -1,6 +1,6 @@
 const exercises = [
   {
-    english: "I eat an apple \(x^2\)",
+    english: "I eat an applelllll",
     spanish: "Yo como una manzana",
     list: [\(2x\sqrt{q}\), "comes", "Yo", "una", "como", "naranja"],
   },
